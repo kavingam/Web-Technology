@@ -14,42 +14,46 @@
 <details>
     <summary>Table of Contents</summary>
   <ol>
-        <a alt="" href="#">introduction to hyperlinks</a>
         <li>
+            <a alt="" href="#">introduction to hyperlinks</a>
             <ul>
                 <a alt="" href="#"></a>
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        <a alt="" href="#">cascading style sheet</a>
         <li>
+            <a alt="" href="#">cascading style sheet</a>
             <ul>
                 <a alt="" href="#"></a>
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        <a alt="" href="#">xhtml</a>
+        
         <li>
+            <a alt="" href="#">xhtml</a>
             <ul>
                  <a alt="" href="#"></a>
                  <a alt="" href="#"></a>
             </ul>
         </li>
-        <a alt="" href="#">xml</a>
+        
         <li>
+            <a alt="" href="#">xml</a>
             <ul>
                 <a alt="" href="#"></a>
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        <a alt="javascript" href="#">javascript (js)</a>
+        
         <li>
+            <a alt="javascript" href="#">javascript (js)</a>
             <ul>
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        <a alt="" href="#">java server pages (jsp)</a>
+        
         <li>
+            <a alt="" href="#">java server pages (jsp)</a>
             <ul>
                 <a alt="" href="#"></a>
                 <a alt="" href="#"></a>

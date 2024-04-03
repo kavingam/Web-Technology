@@ -28,7 +28,6 @@
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        
         <li>
             <a alt="" href="#">xhtml</a>
             <ul>
@@ -36,7 +35,6 @@
                  <a alt="" href="#"></a>
             </ul>
         </li>
-        
         <li>
             <a alt="" href="#">xml</a>
             <ul>
@@ -44,14 +42,12 @@
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        
         <li>
             <a alt="javascript" href="#">javascript (js)</a>
             <ul>
                 <a alt="" href="#"></a>
             </ul>
         </li>
-        
         <li>
             <a alt="" href="#">java server pages (jsp)</a>
             <ul>

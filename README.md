@@ -44,7 +44,9 @@
         </li>
         <a alt="javascript" href="#">javascript (js)</a>
         <ul>
-            <a alt="" href="#"></a>
+            <li>
+                <a alt="" href="#"></a>
+            </li>
         </ul>
         <a alt="" href="#">java server pages (jsp)</a>
         <li>

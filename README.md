@@ -43,11 +43,11 @@
             </ul>
         </li>
         <a alt="javascript" href="#">javascript (js)</a>
-        <ul>
-            <li>
+        <li>
+            <ul>
                 <a alt="" href="#"></a>
-            </li>
-        </ul>
+            </ul>
+        </li>
         <a alt="" href="#">java server pages (jsp)</a>
         <li>
             <ul>
